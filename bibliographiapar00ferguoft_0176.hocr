@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliographiapar00ferguoft_0176.png"; bbox 0 0 1940 3188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 58 174 111 187">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 58 174 111 187">
+     <span class='ocr_line' id='line_1_1' title="bbox 58 174 111 187; baseline 0 3001"><span class='ocrx_word' id='word_1_1' title='bbox 58 174 111 187; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 304 988 3137">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 304 988 3137">
+     <span class='ocr_line' id='line_1_2' title="bbox 262 304 270 316; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 262 304 270 316; x_wconf 73' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 774 1190 784 1198; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 774 1190 784 1198; x_wconf 54' lang='grc' dir='ltr'>κ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 914 1214 920 1227; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 914 1214 920 1227; x_wconf 72' lang='lat'>0</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 296 1259 304 1270; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 296 1259 304 1270; x_wconf 71' lang='grc' dir='ltr'>Ο</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 227 1302 233 1327; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 227 1302 233 1327; x_wconf 70' lang='grc' dir='ltr'>ἑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 311 1478 321 1485; baseline 0 -2"><span class='ocrx_word' id='word_1_7' title='bbox 311 1478 321 1485; x_wconf 73' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 240 1612 267 1645; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 240 1612 267 1645; x_wconf 68' lang='grc' dir='ltr'>«ἶ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 433 2064 456 2076; baseline 0.087 -2"><span class='ocrx_word' id='word_1_9' title='bbox 433 2064 456 2076; x_wconf 72' lang='grc' dir='ltr'>,ο</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 229 2601 242 2609; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 229 2601 242 2609; x_wconf 67' lang='lat'><em>0</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 805 2976 988 3015; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 805 2976 850 3015; x_wconf 71' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_12' title='bbox 979 2980 988 2990; x_wconf 85' lang='grc'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 228 3126 234 3137; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 228 3126 234 3137; x_wconf 82' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1018 0 1940 3188">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1018 0 1940 3188">
+     <span class='ocr_line' id='line_1_13' title="bbox 1018 0 1940 3188; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 1018 0 1940 3188; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
